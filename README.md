@@ -6,10 +6,10 @@ There is a 3x3 grid of numbers. The goal of the game is to eliminate all the til
 
 <details> 
   <summary>If you're pressed for time, here's what each arrow does: </summary>
-   1. Moving right adds the numbers
-   2. Moving left subtracts the selected tile from the left tile, only works if result is positive
-   3. Moving down divides bottom tile by selected tile, only works if result is whole number
-   4. Moving up multiplies the two numbers
+ - Moving right adds the numbers
+ - Moving left subtracts the selected tile from the left tile, only works if result is positive
+ - Moving down divides bottom tile by selected tile, only works if result is whole number
+ - Moving up multiplies the two numbers
 </details>
 
 
