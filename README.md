@@ -22,13 +22,6 @@ There is a 3x3 grid of numbers. The goal of the game is to eliminate all the til
   
 </details>
 
+ For an extra challenge, try to get the middle tile to equal 0
 
-<details> 
-  <summaryFor an extra challenge, try to get the middle tile to equal 0: </summary>
-  Move the 7 into the 2, then the 8 into the 1 that was just created.  
-  Move the 6 right and the leftmost 1 right
-  Move the bottom 9 up and the 1 down
-  Move the bottom right up and then into the middle!
-  
-</details>
 Good luck!
