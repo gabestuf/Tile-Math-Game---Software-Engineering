@@ -6,8 +6,8 @@ There is a 3x3 grid of numbers. The goal of the game is to eliminate all the til
 
 If you're pressed for time, here's what each arrow does:
 >! Moving right adds the numbers
->! Moving left subtracts the selected tile from the left tile, only works if result is positive
->! Moving down divides bottom tile by selected tile, only works if result is whole number
->! Moving up multiplies the two numbers 
+Moving left subtracts the selected tile from the left tile, only works if result is positive
+Moving down divides bottom tile by selected tile, only works if result is whole number
+Moving up multiplies the two numbers 
 
 Good luck!
