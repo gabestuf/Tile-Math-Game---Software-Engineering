@@ -263,5 +263,7 @@ public class UI {
         button12.setVisible(true);
         button22.setVisible(true);
 
+        button11.setBackground(Color.black);
+        button11.setForeground(Color.white);
     }
 }
